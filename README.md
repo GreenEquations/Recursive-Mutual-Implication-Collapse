@@ -1,4 +1,4 @@
-# ?? Recursive Mutual Implication Collapse in Triadic Logic Networks (RMIC)
+# Recursive Mutual Implication Collapse in Triadic Logic Networks (RMIC)
 
 ## Overview
 
@@ -8,26 +8,26 @@ When three symbolic elements (e.g., A, B, C) recursively imply one another in a 
 
 ---
 
-## ?? Key Terms
+## Key Terms
 
 - **Triadic Implication Loop**: A closed cycle of mutual symbolic implication among three elements.
-- **Fr(t)** ñ Coherence of the triadic system over time.
-- **?I(t)** ñ Information gain per recursive cycle.
-- **Dr(t)** ñ Recursion density (frequency of mutual implication cycles).
-- **Collapse Condition** ñ Triggered when Dr(t) > critical threshold and ?I(t) approaches zero.
+- **Fr(t)** ‚Äì Coherence of the triadic system over time.
+- **?I(t)** ‚Äì Information gain per recursive cycle.
+- **Dr(t)** ‚Äì Recursion density (frequency of mutual implication cycles).
+- **Collapse Condition** ‚Äì Triggered when Dr(t) > critical threshold and ?I(t) approaches zero.
 
 ---
 
-## ?? Collapse Indicators
+## Collapse Indicators
 
-- Sudden spike in the second derivative of coherence: d≤Fr/dt≤
+- Sudden spike in the second derivative of coherence: d¬≤Fr/dt¬≤
 - Decline in ?I(t) over successive cycles
 - Increase in symbolic entropy (loss of structure or logical consistency)
 - Hallucinated connections or contradictions within the implication chain
 
 ---
 
-## ?? Simulation Framework
+## Simulation Framework
 
 ### Systems
 
@@ -50,15 +50,15 @@ When three symbolic elements (e.g., A, B, C) recursively imply one another in a 
 
 ---
 
-## ?? Human Cognition Parallel
+## Human Cognition Parallel
 
-- Triadic contradiction loops (e.g., ìA implies B, B implies C, C contradicts Aî)
+- Triadic contradiction loops (e.g., ‚ÄúA implies B, B implies C, C contradicts A‚Äù)
 - Circular reasoning in logical debates or belief systems
 - Working memory collapse under circular semantic loads
 
 ---
 
-## ?? Applications
+## Applications
 
 - **Symbolic System Design**: Prevent collapse in triadic knowledge structures
 - **AI Safety**: Detect feedback loops in large-scale language systems
@@ -67,7 +67,7 @@ When three symbolic elements (e.g., A, B, C) recursively imply one another in a 
 
 ---
 
-## ?? Repository Info
+## Repository Info
 
 **Status**: Stable  
 **Version**: 1.0  
@@ -76,7 +76,7 @@ When three symbolic elements (e.g., A, B, C) recursively imply one another in a 
 
 ---
 
-## ?? How to Contribute
+## How to Contribute
 
 - Propose new collapse detection metrics
 - Provide empirical tests or simulations of triadic feedback systems
@@ -85,6 +85,6 @@ When three symbolic elements (e.g., A, B, C) recursively imply one another in a 
 
 ---
 
-## ?? License
+## License
 
-MIT License ó open source, free to use, modify, and redistribute with attribution.
+MIT License ‚Äî open source, free to use, modify, and redistribute with attribution.
